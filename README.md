@@ -28,5 +28,5 @@ How to keep yourself in a growth mindset:
 for more details, please take a look on [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 Author:
-Mohammad AlKhatib, I have graduated from the University of Jordan with a BSc degree in civil engineering. I want to learn programming and start a career, it is a great honor to be one of ASAC's students.
+Mohammad AlKhatib, graduated from the University of Jordan with a BSc degree in civil engineering. I want to learn programming and start a career, it is a great honor to be one of ASAC's students.
 Here is my GitHub [link](https://github.com/MohammadAl-khatib)

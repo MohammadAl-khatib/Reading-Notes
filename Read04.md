@@ -31,9 +31,11 @@ operations like:
 
 * Logical Operations:
   - `<>, ==, >=, <=, !=` for comparison
+
  &nbsp;
  &nbsp;
  &nbsp;
+ 
 ### JavaScript Variables
 
 Variables are containers to store data in order to make processes on, or to be recalled later, data can be a number, a string (text), a boolean (having a value of yes or no),....etc. Each variable has a name, a value, and data type

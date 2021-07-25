@@ -6,11 +6,11 @@ Topic | Link
 ------------ | -------------
 Read01 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/read01)
 Read02 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/Growth)
-Read03 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/read03)
-Read04 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/read04)
-Read05 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/read05)
-Read06 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/read06)
-Read07 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/read07)
+Read03 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/Read03)
+Read04 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/Read04)
+Read05 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/Read05)
+Read06 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/Read06)
+Read07 | [Link1]( https://mohammadal-khatib.github.io/reading-notes/Read07)
 
 ### Mohammad AlKhatib 201 Reading Notes
 Topic | Link

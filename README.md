@@ -13,6 +13,7 @@ Read06 | [Link6]( https://mohammadal-khatib.github.io/reading-notes/Read06)
 Read07 | [Link7]( https://mohammadal-khatib.github.io/reading-notes/Read07)
 
 ### Mohammad AlKhatib 201 Reading Notes
+
 Topic | Link
 ------------ | -------------
 Read01 | [Link1]()

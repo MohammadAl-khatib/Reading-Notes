@@ -9,7 +9,7 @@ Topic | Link
 ------------ | -------------
 Read01 | [Link1](https://mohammadal-khatib.github.io/Reading-Notes/class01)
 Read02 | [Link2](https://mohammadal-khatib.github.io/Reading-Notes/class02)
-Read03 | [Link3]()
+Read03 | [Link3](https://mohammadal-khatib.github.io/Reading-Notes/class03)
 Read04 | [Link4]()
 Read05 | [Link5]()
 Read06 | [Link6]()

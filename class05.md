@@ -49,4 +49,4 @@ text-align | left, right, center, or justify
 
 Links are also considered texts, there are further styling techniques for links, for active, visited, and hover.
 
-*Read more on: *[Fonts,w3schools](https://www.w3schools.com/css/css_font.asp)
+*Read more on:* [Fonts,w3schools](https://www.w3schools.com/css/css_font.asp)

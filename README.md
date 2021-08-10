@@ -20,8 +20,8 @@ Read10 | [Link10](https://mohammadal-khatib.github.io/Reading-Notes/class10)
 Read11 | [Link11](https://mohammadal-khatib.github.io/Reading-Notes/class11)
 Read12 | [Link12](https://mohammadal-khatib.github.io/Reading-Notes/class12)
 Read13 | [Link13](https://mohammadal-khatib.github.io/Reading-Notes/class13)
-Read14 | [Link14](https://mohammadal-khatib.github.io/Reading-Notes/class-14a)
-Read15 | [Link15](https://mohammadal-khatib.github.io/Reading-Notes/class-14b)
+Read14a | [Link14](https://mohammadal-khatib.github.io/Reading-Notes/class-14a)
+Read14b | [Link15](https://mohammadal-khatib.github.io/Reading-Notes/class-14b)
 
 ### *Code 102 Reading Notes*
 

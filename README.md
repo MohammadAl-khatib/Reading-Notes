@@ -1,9 +1,19 @@
 # Reading Notes
 ![ASAC Logo](https://refugee-educationfund.org/wp-content/uploads/2020/06/LTUC-Logo-EN-rezised.png)
 
+## *Code 301 - Intermediate Software Development*
 
+Topic | Link
+------------ | -------------
+Read01 | [Link1]()
+Read02 | [Link2]()
+Read03 | [Link3]()
+Read04 | [Link4]()
+Read05 | [Link5]()
+Read06 | [Link6]()
+Read07 | [Link7]()
 
-### *Code 201 Reading Notes*
+## *Code 201 - Foundations of Software Development*
 
 Topic | Link
 ------------ | -------------
@@ -23,7 +33,7 @@ Read13 | [Link13](https://mohammadal-khatib.github.io/Reading-Notes/class13)
 Read14a | [Link14](https://mohammadal-khatib.github.io/Reading-Notes/class-14a)
 Read14b | [Link15](https://mohammadal-khatib.github.io/Reading-Notes/class-14b)
 
-### *Code 102 Reading Notes*
+## *Code 102 - Intro to Software Development*
 
 Topic | Link
 ------------ | -------------

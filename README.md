@@ -6,7 +6,7 @@
 Topic | Link
 ------------ | -------------
 Read01 | [Link1](https://mohammadal-khatib.github.io/Reading-Notes/read01-301)
-Read02 | [Link2]()
+Read02 | [Link2](https://mohammadal-khatib.github.io/Reading-Notes/read02-301)
 Read03 | [Link3]()
 Read04 | [Link4]()
 Read05 | [Link5]()

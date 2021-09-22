@@ -19,6 +19,7 @@ Read10 | [Link10](https://mohammadal-khatib.github.io/Reading-Notes/read10-301)
 Read11 | [Link11](https://mohammadal-khatib.github.io/Reading-Notes/read11-301)
 Read12 | [Link12](https://mohammadal-khatib.github.io/Reading-Notes/read12-301)
 Read13 | [Link13](https://mohammadal-khatib.github.io/Reading-Notes/read13-301)
+Read14 | [Link14](https://mohammadal-khatib.github.io/Reading-Notes/read14-301)
 
 ## *Code 201 - Foundations of Software Development*
 

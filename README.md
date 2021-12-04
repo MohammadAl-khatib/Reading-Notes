@@ -26,6 +26,13 @@ Read17 | [Link17](https://mohammadal-khatib.github.io/Reading-Notes/read17-401)
 Read18 | [Link18](https://mohammadal-khatib.github.io/Reading-Notes/read18-401)
 Read19 | [Link19](https://mohammadal-khatib.github.io/Reading-Notes/read19-401)
 Read20 | [Link20](https://mohammadal-khatib.github.io/Reading-Notes/read20-401)
+Read26 | [Link21](https://mohammadal-khatib.github.io/Reading-Notes/read26-401)
+Read27 | [Link22](https://mohammadal-khatib.github.io/Reading-Notes/read27-401)
+Read28 | [Link23](https://mohammadal-khatib.github.io/Reading-Notes/read28-401)
+Read29 | [Link24](https://mohammadal-khatib.github.io/Reading-Notes/read29-401)
+Read30 | [Link25](https://mohammadal-khatib.github.io/Reading-Notes/read30-401)
+
+
 
 ## *Code 301 - Intermediate Software Development*
 

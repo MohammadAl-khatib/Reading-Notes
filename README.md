@@ -35,7 +35,9 @@ Read31 | [Link26](https://mohammadal-khatib.github.io/Reading-Notes/read31-401)
 Read32 | [Link27](https://mohammadal-khatib.github.io/Reading-Notes/read32-401)
 Read33 | [Link28](https://mohammadal-khatib.github.io/Reading-Notes/read33-401)
 Read34 | [Link29](https://mohammadal-khatib.github.io/Reading-Notes/read34-401)
-Read35 | [Link29](https://mohammadal-khatib.github.io/Reading-Notes/read35-401)
+Read35 | [Link30](https://mohammadal-khatib.github.io/Reading-Notes/read35-401)
+Read36 | [DSA Review](https://mohammadal-khatib.github.io/Reading-Notes/read36-401)
+
 
 
 

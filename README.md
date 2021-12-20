@@ -38,6 +38,8 @@ Read34 | [Link29](https://mohammadal-khatib.github.io/Reading-Notes/read34-401)
 Read35 | [Link30](https://mohammadal-khatib.github.io/Reading-Notes/read35-401)
 Read36 | [DSA Review](https://mohammadal-khatib.github.io/Reading-Notes/read36-401)
 Read36 | [React1](https://mohammadal-khatib.github.io/Reading-Notes/read37-401)
+Read36 | [React2](https://mohammadal-khatib.github.io/Reading-Notes/read38-401)
+
 
 
 
